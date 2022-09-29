@@ -1,0 +1,26 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "wxe5f0fd0ac3dabf7f",
+# 公众号appSecret
+"app_secret": "f1177423cca0a6965ca6bdbc5c9117ed",
+# 模板消息id
+"template_id": "YUS9Ec_7mRuA4N_tU0t9yjZSCjMdNAqLLjVWOhr5StU",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
+"user": ["oRw9R54hYqJ35NInMAwyz2_jtHFk"],
+
+# 信息配置
+# 和风天气apikey
+"weather_key":
+"28e87266aa0e43d490d6ee43ad2d0d86",
+# 所在省份
+"province": "湖北",
+# 所在城市
+"city": "武汉",
+# 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
+"birthday1": {"name": "叶姐姐", "birthday": "r2003-11-18"},
+# 生日2
+"birthday2": {"name": "小漂漂", "birthday": "r2004-01-17"},
+# 在一起的日子，格式同上
+"love_date": "2022-08-15"
+}
